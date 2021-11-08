@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "411868681959",
+    "project_id": "direct-casing-317905",
+    "storage_bucket": "direct-casing-317905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411868681959:android:610b31dfc2907085143442",
+        "android_client_info": {
+          "package_name": "com.eocambo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411868681959-iujoao3lesridifef08b19ii6hh9geq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Y7Jo3S9ACa5Iq0buR6JzGBd41IJqWPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411868681959-iujoao3lesridifef08b19ii6hh9geq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411868681959-ghlq0294pgqpnpmmfcv6ikfhuct9saif.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eocambo.android"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411868681959:android:c312f505ac3cdf74143442",
+        "android_client_info": {
+          "package_name": "com.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411868681959-iujoao3lesridifef08b19ii6hh9geq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Y7Jo3S9ACa5Iq0buR6JzGBd41IJqWPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411868681959-iujoao3lesridifef08b19ii6hh9geq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411868681959-ghlq0294pgqpnpmmfcv6ikfhuct9saif.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eocambo.android"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
